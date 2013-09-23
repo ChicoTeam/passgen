@@ -1,0 +1,10 @@
+#build directories
+bin/
+#ignore generated classes
+.idea/
+#ignore project settings
+.poject
+.settings
+.passgen.iml
+**/*~
+*~
